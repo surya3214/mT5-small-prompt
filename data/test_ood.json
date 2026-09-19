@@ -1,0 +1,1664 @@
+[
+  {
+    "input": "erase reminders from Porto",
+    "target": {
+      "act": "delete",
+      "add": "Porto",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "show me videos from Vladivostok, last week",
+    "target": {
+      "act": "fetch",
+      "add": "Vladivostok",
+      "record": "videos",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "retrieve reminders from Bruges",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "locate videos in Reykjavik",
+    "target": {
+      "act": "search",
+      "add": "Reykjavik",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "locate notes in Reykjavik",
+    "target": {
+      "act": "search",
+      "add": "Reykjavik",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "share messages from Heidelberg two days ago",
+    "target": {
+      "act": "share",
+      "add": "Heidelberg",
+      "record": "messages",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "please download reminders from Reykjavik",
+    "target": {
+      "act": "download",
+      "add": "Reykjavik",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "find videos from Montevideo",
+    "target": {
+      "act": "fetch",
+      "add": "Montevideo",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "remove files from Bruges",
+    "target": {
+      "act": "delete",
+      "add": "Bruges",
+      "record": "files"
+    }
+  },
+  {
+    "input": "remove photos from Porto from two days ago",
+    "target": {
+      "act": "delete",
+      "add": "Porto",
+      "record": "photos",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "get contacts in Reykjavik from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Reykjavik",
+      "record": "contacts",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "locate videos in Tallinn",
+    "target": {
+      "act": "search",
+      "add": "Tallinn",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "show me files from Bruges, this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "files",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "pull reminders from Porto",
+    "target": {
+      "act": "fetch",
+      "add": "Porto",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "find documents from Reykjavik",
+    "target": {
+      "act": "fetch",
+      "add": "Reykjavik",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "download messages from Tallinn two days ago",
+    "target": {
+      "act": "download",
+      "add": "Tallinn",
+      "record": "messages",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "erase emails from Heidelberg",
+    "target": {
+      "act": "delete",
+      "add": "Heidelberg",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "find photos from Marrakech from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "photos",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "remove videos from Porto",
+    "target": {
+      "act": "delete",
+      "add": "Porto",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "remove emails from Vladivostok from last year",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "emails",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "retrieve reminders from Christchurch since yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Christchurch",
+      "record": "reminders",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "retrieve messages from Tbilisi since this week",
+    "target": {
+      "act": "fetch",
+      "add": "Tbilisi",
+      "record": "messages",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "show me photos from Marrakech",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "look up documents near Montevideo",
+    "target": {
+      "act": "search",
+      "add": "Montevideo",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "erase bookmarks from Reykjavik",
+    "target": {
+      "act": "delete",
+      "add": "Reykjavik",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "erase notes from Reykjavik",
+    "target": {
+      "act": "delete",
+      "add": "Reykjavik",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "sync notes from Heidelberg",
+    "target": {
+      "act": "sync",
+      "add": "Heidelberg",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "find notes from Marrakech from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "notes",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "retrieve messages from Bruges",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "I want to sync notes from Heidelberg",
+    "target": {
+      "act": "sync",
+      "add": "Heidelberg",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "pull emails from Reykjavik",
+    "target": {
+      "act": "fetch",
+      "add": "Reykjavik",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "remove contacts from Marrakech",
+    "target": {
+      "act": "delete",
+      "add": "Marrakech",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "backup documents from Montevideo",
+    "target": {
+      "act": "backup",
+      "add": "Montevideo",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "remove notes from Tallinn from last month",
+    "target": {
+      "act": "delete",
+      "add": "Tallinn",
+      "record": "notes",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "retrieve documents from Tbilisi",
+    "target": {
+      "act": "fetch",
+      "add": "Tbilisi",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "get photos from Heidelberg",
+    "target": {
+      "act": "fetch",
+      "add": "Heidelberg",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "locate reminders in Reykjavik",
+    "target": {
+      "act": "search",
+      "add": "Reykjavik",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "remove reminders from Vladivostok from this morning",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "reminders",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "erase messages from Vladivostok",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "please share emails from Marrakech",
+    "target": {
+      "act": "share",
+      "add": "Marrakech",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "find reminders from Bruges",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "retrieve bookmarks from Heidelberg",
+    "target": {
+      "act": "fetch",
+      "add": "Heidelberg",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "retrieve bookmarks from Marrakech",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "retrieve documents from Vladivostok",
+    "target": {
+      "act": "fetch",
+      "add": "Vladivostok",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "find files from Montevideo from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Montevideo",
+      "record": "files",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "upload my documents from Vladivostok",
+    "target": {
+      "act": "upload",
+      "add": "Vladivostok",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "locate photos in Tbilisi",
+    "target": {
+      "act": "search",
+      "add": "Tbilisi",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "retrieve messages from Tallinn",
+    "target": {
+      "act": "fetch",
+      "add": "Tallinn",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "retrieve photos from Reykjavik",
+    "target": {
+      "act": "fetch",
+      "add": "Reykjavik",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "erase documents from Vladivostok",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "pull photos from Christchurch",
+    "target": {
+      "act": "fetch",
+      "add": "Christchurch",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "I want to share notes from Tallinn",
+    "target": {
+      "act": "share",
+      "add": "Tallinn",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "show me files from Porto",
+    "target": {
+      "act": "fetch",
+      "add": "Porto",
+      "record": "files"
+    }
+  },
+  {
+    "input": "search bookmarks taken in Reykjavik",
+    "target": {
+      "act": "search",
+      "add": "Reykjavik",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "retrieve documents from Reykjavik since today",
+    "target": {
+      "act": "fetch",
+      "add": "Reykjavik",
+      "record": "documents",
+      "time": "today"
+    }
+  },
+  {
+    "input": "download my videos from Marrakech",
+    "target": {
+      "act": "download",
+      "add": "Marrakech",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "remove messages from Vladivostok from last year",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "messages",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "get documents from Tallinn",
+    "target": {
+      "act": "fetch",
+      "add": "Tallinn",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "remove photos from Porto",
+    "target": {
+      "act": "delete",
+      "add": "Porto",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "sync all reminders in Tallinn",
+    "target": {
+      "act": "sync",
+      "add": "Tallinn",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "remove videos from Bruges",
+    "target": {
+      "act": "delete",
+      "add": "Bruges",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "find documents from Bruges",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "backup all contacts in Reykjavik since last year",
+    "target": {
+      "act": "backup",
+      "add": "Reykjavik",
+      "record": "contacts",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "I want to upload contacts from Porto",
+    "target": {
+      "act": "upload",
+      "add": "Porto",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "retrieve files from Porto",
+    "target": {
+      "act": "fetch",
+      "add": "Porto",
+      "record": "files"
+    }
+  },
+  {
+    "input": "sync photos from Marrakech",
+    "target": {
+      "act": "sync",
+      "add": "Marrakech",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "remove reminders from Reykjavik from today",
+    "target": {
+      "act": "delete",
+      "add": "Reykjavik",
+      "record": "reminders",
+      "time": "today"
+    }
+  },
+  {
+    "input": "pull contacts from Montevideo",
+    "target": {
+      "act": "fetch",
+      "add": "Montevideo",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "find messages from Christchurch",
+    "target": {
+      "act": "fetch",
+      "add": "Christchurch",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "export photos from Christchurch",
+    "target": {
+      "act": "export",
+      "add": "Christchurch",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "find photos from Marrakech from last month",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "photos",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "search all notes in Heidelberg since last year",
+    "target": {
+      "act": "search",
+      "add": "Heidelberg",
+      "record": "notes",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "get bookmarks in Christchurch from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Christchurch",
+      "record": "bookmarks",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "find documents from Heidelberg from this week",
+    "target": {
+      "act": "fetch",
+      "add": "Heidelberg",
+      "record": "documents",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "I want to backup bookmarks from Tallinn",
+    "target": {
+      "act": "backup",
+      "add": "Tallinn",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "erase files from Reykjavik",
+    "target": {
+      "act": "delete",
+      "add": "Reykjavik",
+      "record": "files"
+    }
+  },
+  {
+    "input": "erase contacts from Tbilisi",
+    "target": {
+      "act": "delete",
+      "add": "Tbilisi",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "share my photos from Christchurch",
+    "target": {
+      "act": "share",
+      "add": "Christchurch",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "look up notes near Reykjavik",
+    "target": {
+      "act": "search",
+      "add": "Reykjavik",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "fetch contacts from Bruges last year",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "contacts",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "pull sketches from Singapore",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "retrieve memos from Tokyo since last week",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "memos",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me podcasts from Mumbai, two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "podcasts",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "retrieve podcasts from Singapore since today",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "podcasts",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show me receipts from Bangalore, yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "receipts",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me memos from Seoul",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "delete all receipts in Mumbai",
+    "target": {
+      "act": "delete",
+      "add": "Mumbai",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "locate invoices in Jakarta",
+    "target": {
+      "act": "search",
+      "add": "Jakarta",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "find invoices from Madrid from two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "invoices",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "show me sketches from Tokyo, last month",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "sketches",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "fetch my receipts from Rome",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "remove memos from Berlin from this week",
+    "target": {
+      "act": "delete",
+      "add": "Berlin",
+      "record": "memos",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "search sketches from Berlin yesterday",
+    "target": {
+      "act": "search",
+      "add": "Berlin",
+      "record": "sketches",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "please sync receipts from Moscow",
+    "target": {
+      "act": "sync",
+      "add": "Moscow",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "remove memos from Paris from this morning",
+    "target": {
+      "act": "delete",
+      "add": "Paris",
+      "record": "memos",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "look up podcasts near Chennai",
+    "target": {
+      "act": "search",
+      "add": "Chennai",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "remove memos from Tokyo from today",
+    "target": {
+      "act": "delete",
+      "add": "Tokyo",
+      "record": "memos",
+      "time": "today"
+    }
+  },
+  {
+    "input": "I want to sync receipts from Paris",
+    "target": {
+      "act": "sync",
+      "add": "Paris",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "I want to download memos from Singapore",
+    "target": {
+      "act": "download",
+      "add": "Singapore",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "show me podcasts from Shanghai, this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "podcasts",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "retrieve podcasts from Rome",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "fetch memos taken in Paris",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "find memos from Paris",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "retrieve sketches from Rome",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "locate podcasts in Jakarta",
+    "target": {
+      "act": "search",
+      "add": "Jakarta",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "get invoices from Bangalore",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "get podcasts from Mumbai",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "download receipts from Singapore last month",
+    "target": {
+      "act": "download",
+      "add": "Singapore",
+      "record": "receipts",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "find memos from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "I want to backup podcasts from Sydney",
+    "target": {
+      "act": "backup",
+      "add": "Sydney",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "upload sketches from Cairo last week",
+    "target": {
+      "act": "upload",
+      "add": "Cairo",
+      "record": "sketches",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "remove podcasts from Rome",
+    "target": {
+      "act": "delete",
+      "add": "Rome",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "search all receipts in Rome since last year",
+    "target": {
+      "act": "search",
+      "add": "Rome",
+      "record": "receipts",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "retrieve sketches from Sydney since two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "sketches",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "get memos from Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "sync all podcasts in Bangkok",
+    "target": {
+      "act": "sync",
+      "add": "Bangkok",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "look up podcasts near Mumbai",
+    "target": {
+      "act": "search",
+      "add": "Mumbai",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "find podcasts from Mumbai",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "remove memos from Cairo from yesterday",
+    "target": {
+      "act": "delete",
+      "add": "Cairo",
+      "record": "memos",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "erase receipts from Jakarta",
+    "target": {
+      "act": "delete",
+      "add": "Jakarta",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "I want to download podcasts from New York",
+    "target": {
+      "act": "download",
+      "add": "New York",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "I want to export podcasts from Sydney",
+    "target": {
+      "act": "export",
+      "add": "Sydney",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "look up podcasts near Jakarta",
+    "target": {
+      "act": "search",
+      "add": "Jakarta",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "share all memos in Moscow",
+    "target": {
+      "act": "share",
+      "add": "Moscow",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "get receipts in Delhi from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "receipts",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "get invoices from Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "find memos from Seoul from last month",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "memos",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show me invoices from Shanghai, last month",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "invoices",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "archive podcasts from Mumbai",
+    "target": {
+      "act": "archive",
+      "add": "Mumbai",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "retrieve podcasts from Moscow since today",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "podcasts",
+      "time": "today"
+    }
+  },
+  {
+    "input": "look up sketches near Bangalore",
+    "target": {
+      "act": "search",
+      "add": "Bangalore",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "show me sketches from Seoul, today",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "sketches",
+      "time": "today"
+    }
+  },
+  {
+    "input": "backup all invoices in Paris",
+    "target": {
+      "act": "backup",
+      "add": "Paris",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "show me receipts from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "erase sketches from Seoul",
+    "target": {
+      "act": "delete",
+      "add": "Seoul",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "find receipts from Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "locate podcasts in Dubai",
+    "target": {
+      "act": "search",
+      "add": "Dubai",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "retrieve sketches from Seoul since this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "sketches",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "look up receipts near Cairo",
+    "target": {
+      "act": "search",
+      "add": "Cairo",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "share my invoices from Cairo",
+    "target": {
+      "act": "share",
+      "add": "Cairo",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "erase receipts from Vladivostok",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "show me sketches from Reykjavik",
+    "target": {
+      "act": "fetch",
+      "add": "Reykjavik",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "locate memos in Marrakech",
+    "target": {
+      "act": "search",
+      "add": "Marrakech",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "pull sketches from Porto",
+    "target": {
+      "act": "fetch",
+      "add": "Porto",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "please backup sketches from Christchurch",
+    "target": {
+      "act": "backup",
+      "add": "Christchurch",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "backup memos from Bruges",
+    "target": {
+      "act": "backup",
+      "add": "Bruges",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "find invoices from Heidelberg from today",
+    "target": {
+      "act": "fetch",
+      "add": "Heidelberg",
+      "record": "invoices",
+      "time": "today"
+    }
+  },
+  {
+    "input": "remove invoices from Vladivostok",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "remove invoices from Vladivostok from last week",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "invoices",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pull memos from Porto",
+    "target": {
+      "act": "fetch",
+      "add": "Porto",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "look up invoices near Bruges",
+    "target": {
+      "act": "search",
+      "add": "Bruges",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "show me invoices from Christchurch",
+    "target": {
+      "act": "fetch",
+      "add": "Christchurch",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "erase memos from Vladivostok",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "show me receipts from Christchurch",
+    "target": {
+      "act": "fetch",
+      "add": "Christchurch",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "get invoices in Vladivostok from this week",
+    "target": {
+      "act": "fetch",
+      "add": "Vladivostok",
+      "record": "invoices",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "show me sketches from Marrakech",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "please sync invoices from Tbilisi",
+    "target": {
+      "act": "sync",
+      "add": "Tbilisi",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "backup all invoices in Montevideo since yesterday",
+    "target": {
+      "act": "backup",
+      "add": "Montevideo",
+      "record": "invoices",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "find sketches from Vladivostok from today",
+    "target": {
+      "act": "fetch",
+      "add": "Vladivostok",
+      "record": "sketches",
+      "time": "today"
+    }
+  },
+  {
+    "input": "find memos from Vladivostok from this week",
+    "target": {
+      "act": "fetch",
+      "add": "Vladivostok",
+      "record": "memos",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "download memos taken in Reykjavik",
+    "target": {
+      "act": "download",
+      "add": "Reykjavik",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "get receipts from Tallinn",
+    "target": {
+      "act": "fetch",
+      "add": "Tallinn",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "download all receipts in Bruges",
+    "target": {
+      "act": "download",
+      "add": "Bruges",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "export all sketches in Reykjavik",
+    "target": {
+      "act": "export",
+      "add": "Reykjavik",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "show me sketches from Bruges, yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "sketches",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "I want to download receipts from Tbilisi",
+    "target": {
+      "act": "download",
+      "add": "Tbilisi",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "show me sketches from Tallinn, last week",
+    "target": {
+      "act": "fetch",
+      "add": "Tallinn",
+      "record": "sketches",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "fetch all podcasts in Marrakech since last month",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "podcasts",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "erase podcasts from Marrakech",
+    "target": {
+      "act": "delete",
+      "add": "Marrakech",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "please export podcasts from Montevideo",
+    "target": {
+      "act": "export",
+      "add": "Montevideo",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "remove sketches from Heidelberg",
+    "target": {
+      "act": "delete",
+      "add": "Heidelberg",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "get sketches from Bruges",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "I want to export invoices from Vladivostok",
+    "target": {
+      "act": "export",
+      "add": "Vladivostok",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "remove invoices from Montevideo from last week",
+    "target": {
+      "act": "delete",
+      "add": "Montevideo",
+      "record": "invoices",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "remove invoices from Tbilisi",
+    "target": {
+      "act": "delete",
+      "add": "Tbilisi",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "show me invoices from Montevideo",
+    "target": {
+      "act": "fetch",
+      "add": "Montevideo",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "look up memos near Christchurch",
+    "target": {
+      "act": "search",
+      "add": "Christchurch",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "look up podcasts near Heidelberg",
+    "target": {
+      "act": "search",
+      "add": "Heidelberg",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "upload memos from Montevideo",
+    "target": {
+      "act": "upload",
+      "add": "Montevideo",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "pull memos from Bruges",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "find podcasts from Vladivostok",
+    "target": {
+      "act": "fetch",
+      "add": "Vladivostok",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "I want to fetch podcasts from Christchurch",
+    "target": {
+      "act": "fetch",
+      "add": "Christchurch",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "archive sketches from Montevideo",
+    "target": {
+      "act": "archive",
+      "add": "Montevideo",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "retrieve memos from Tallinn since yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Tallinn",
+      "record": "memos",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "please search memos from Bruges",
+    "target": {
+      "act": "search",
+      "add": "Bruges",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "export podcasts taken in Heidelberg",
+    "target": {
+      "act": "export",
+      "add": "Heidelberg",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "find sketches from Christchurch from today",
+    "target": {
+      "act": "fetch",
+      "add": "Christchurch",
+      "record": "sketches",
+      "time": "today"
+    }
+  },
+  {
+    "input": "get memos in Marrakech from today",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "memos",
+      "time": "today"
+    }
+  },
+  {
+    "input": "get sketches in Heidelberg from two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Heidelberg",
+      "record": "sketches",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "download my receipts from Montevideo",
+    "target": {
+      "act": "download",
+      "add": "Montevideo",
+      "record": "receipts"
+    }
+  },
+  {
+    "input": "share all invoices in Bruges since today",
+    "target": {
+      "act": "share",
+      "add": "Bruges",
+      "record": "invoices",
+      "time": "today"
+    }
+  },
+  {
+    "input": "upload all invoices in Vladivostok",
+    "target": {
+      "act": "upload",
+      "add": "Vladivostok",
+      "record": "invoices"
+    }
+  },
+  {
+    "input": "remove memos from Tallinn",
+    "target": {
+      "act": "delete",
+      "add": "Tallinn",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "retrieve podcasts from Bruges",
+    "target": {
+      "act": "fetch",
+      "add": "Bruges",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "please delete memos from Vladivostok",
+    "target": {
+      "act": "delete",
+      "add": "Vladivostok",
+      "record": "memos"
+    }
+  },
+  {
+    "input": "find podcasts from Tallinn from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Tallinn",
+      "record": "podcasts",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "find memos from Tbilisi from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Tbilisi",
+      "record": "memos",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "get podcasts from Marrakech",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "podcasts"
+    }
+  },
+  {
+    "input": "archive sketches taken in Vladivostok",
+    "target": {
+      "act": "archive",
+      "add": "Vladivostok",
+      "record": "sketches"
+    }
+  },
+  {
+    "input": "fetch podcasts taken in Marrakech",
+    "target": {
+      "act": "fetch",
+      "add": "Marrakech",
+      "record": "podcasts"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "bare_test_id": {
+    "exact_match": 0.0,
+    "field_accuracy": 0.0,
+    "exact_match_count": 0,
+    "total": 200
+  },
+  "bare_test_ood": {
+    "exact_match": 0.0,
+    "field_accuracy": 0.0,
+    "exact_match_count": 0,
+    "total": 200
+  },
+  "schema_test_id": {
+    "exact_match": 0.565,
+    "field_accuracy": 0.8545176110260337,
+    "exact_match_count": 113,
+    "total": 200
+  },
+  "schema_test_ood": {
+    "exact_match": 0.315,
+    "field_accuracy": 0.7054380664652568,
+    "exact_match_count": 63,
+    "total": 200
+  }
+}

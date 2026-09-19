@@ -1,0 +1,1202 @@
+[
+  {
+    "input": "erase reminders from Porto",
+    "target": "{\"act\": \"delete\", \"add\": \"Porto\", \"record\": \"reminders\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me videos from Vladivostok, last week",
+    "target": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"videos\", \"time\": \"last week\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"videos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve reminders from Bruges",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"reminders\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"reminders\"}",
+    "exact_match": true
+  },
+  {
+    "input": "locate videos in Reykjavik",
+    "target": "{\"act\": \"search\", \"add\": \"Reykjavik\", \"record\": \"videos\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Iceland\", \"record\": \"videos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "locate notes in Reykjavik",
+    "target": "{\"act\": \"search\", \"add\": \"Reykjavik\", \"record\": \"notes\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"notes\"}",
+    "exact_match": false
+  },
+  {
+    "input": "share messages from Heidelberg two days ago",
+    "target": "{\"act\": \"share\", \"add\": \"Heidelberg\", \"record\": \"messages\", \"time\": \"two days ago\"}",
+    "prediction": "{\"act\": \"share\", \"add\": \"Heidelberg\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "please download reminders from Reykjavik",
+    "target": "{\"act\": \"download\", \"add\": \"Reykjavik\", \"record\": \"reminders\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"Iceland\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find videos from Montevideo",
+    "target": "{\"act\": \"fetch\", \"add\": \"Montevideo\", \"record\": \"videos\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Montevideo\", \"record\": \"videos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove files from Bruges",
+    "target": "{\"act\": \"delete\", \"add\": \"Bruges\", \"record\": \"files\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Bruges\", \"record\": \"files\"}",
+    "exact_match": true
+  },
+  {
+    "input": "remove photos from Porto from two days ago",
+    "target": "{\"act\": \"delete\", \"add\": \"Porto\", \"record\": \"photos\", \"time\": \"two days ago\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Porto\", \"record\": \"photos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get contacts in Reykjavik from yesterday",
+    "target": "{\"act\": \"fetch\", \"add\": \"Reykjavik\", \"record\": \"contacts\", \"time\": \"yesterday\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"contacts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "locate videos in Tallinn",
+    "target": "{\"act\": \"search\", \"add\": \"Tallinn\", \"record\": \"videos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"videos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me files from Bruges, this morning",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"files\", \"time\": \"this morning\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"files\"}",
+    "exact_match": false
+  },
+  {
+    "input": "pull reminders from Porto",
+    "target": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"reminders\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"reminders\"}",
+    "exact_match": true
+  },
+  {
+    "input": "find documents from Reykjavik",
+    "target": "{\"act\": \"fetch\", \"add\": \"Reykjavik\", \"record\": \"documents\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "download messages from Tallinn two days ago",
+    "target": "{\"act\": \"download\", \"add\": \"Tallinn\", \"record\": \"messages\", \"time\": \"two days ago\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"Tallinn\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase emails from Heidelberg",
+    "target": "{\"act\": \"delete\", \"add\": \"Heidelberg\", \"record\": \"emails\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"emails\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find photos from Marrakech from this morning",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"photos\", \"time\": \"this morning\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"photos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove videos from Porto",
+    "target": "{\"act\": \"delete\", \"add\": \"Porto\", \"record\": \"videos\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Porto\", \"record\": \"videos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "remove emails from Vladivostok from last year",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"emails\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"emails\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve reminders from Christchurch since yesterday",
+    "target": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"reminders\", \"time\": \"yesterday\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve messages from Tbilisi since this week",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tbilisi\", \"record\": \"messages\", \"time\": \"this week\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tbilisi\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me photos from Marrakech",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"photos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"photos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "look up documents near Montevideo",
+    "target": "{\"act\": \"search\", \"add\": \"Montevideo\", \"record\": \"documents\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Montevideo\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase bookmarks from Reykjavik",
+    "target": "{\"act\": \"delete\", \"add\": \"Reykjavik\", \"record\": \"bookmarks\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"bookmarks\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase notes from Reykjavik",
+    "target": "{\"act\": \"delete\", \"add\": \"Reykjavik\", \"record\": \"notes\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"notes\"}",
+    "exact_match": false
+  },
+  {
+    "input": "sync notes from Heidelberg",
+    "target": "{\"act\": \"sync\", \"add\": \"Heidelberg\", \"record\": \"notes\"}",
+    "prediction": "{\"act\": \"sync\", \"add\": \"Heidelberg\", \"record\": \"notes\"}",
+    "exact_match": true
+  },
+  {
+    "input": "find notes from Marrakech from last year",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"notes\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"notes\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve messages from Bruges",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"messages\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"messages\"}",
+    "exact_match": true
+  },
+  {
+    "input": "I want to sync notes from Heidelberg",
+    "target": "{\"act\": \"sync\", \"add\": \"Heidelberg\", \"record\": \"notes\"}",
+    "prediction": "{\"act\": \"sync\", \"add\": \"Heidelberg\", \"record\": \"notes\"}",
+    "exact_match": true
+  },
+  {
+    "input": "pull emails from Reykjavik",
+    "target": "{\"act\": \"fetch\", \"add\": \"Reykjavik\", \"record\": \"emails\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"emails\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove contacts from Marrakech",
+    "target": "{\"act\": \"delete\", \"add\": \"Marrakech\", \"record\": \"contacts\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Marrakech\", \"record\": \"contacts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "backup documents from Montevideo",
+    "target": "{\"act\": \"backup\", \"add\": \"Montevideo\", \"record\": \"documents\"}",
+    "prediction": "{\"act\": \"backup\", \"add\": \"Montevideo\", \"record\": \"documents\"}",
+    "exact_match": true
+  },
+  {
+    "input": "remove notes from Tallinn from last month",
+    "target": "{\"act\": \"delete\", \"add\": \"Tallinn\", \"record\": \"notes\", \"time\": \"last month\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Tallinn\", \"record\": \"notes\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve documents from Tbilisi",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tbilisi\", \"record\": \"documents\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tbilisi\", \"record\": \"documents\"}",
+    "exact_match": true
+  },
+  {
+    "input": "get photos from Heidelberg",
+    "target": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"photos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"photos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "locate reminders in Reykjavik",
+    "target": "{\"act\": \"search\", \"add\": \"Reykjavik\", \"record\": \"reminders\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove reminders from Vladivostok from this morning",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"reminders\", \"time\": \"this morning\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase messages from Vladivostok",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"messages\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Volgograd\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "please share emails from Marrakech",
+    "target": "{\"act\": \"share\", \"add\": \"Marrakech\", \"record\": \"emails\"}",
+    "prediction": "{\"act\": \"share\", \"add\": \"Marrakech\", \"record\": \"emails\"}",
+    "exact_match": true
+  },
+  {
+    "input": "find reminders from Bruges",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"reminders\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"reminders\"}",
+    "exact_match": true
+  },
+  {
+    "input": "retrieve bookmarks from Heidelberg",
+    "target": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"bookmarks\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"bookmarks\"}",
+    "exact_match": true
+  },
+  {
+    "input": "retrieve bookmarks from Marrakech",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"bookmarks\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"bookmarks\"}",
+    "exact_match": true
+  },
+  {
+    "input": "retrieve documents from Vladivostok",
+    "target": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "exact_match": true
+  },
+  {
+    "input": "find files from Montevideo from last year",
+    "target": "{\"act\": \"fetch\", \"add\": \"Montevideo\", \"record\": \"files\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Montevideo\", \"record\": \"files\"}",
+    "exact_match": false
+  },
+  {
+    "input": "upload my documents from Vladivostok",
+    "target": "{\"act\": \"upload\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "prediction": "{\"act\": \"upload\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "exact_match": true
+  },
+  {
+    "input": "locate photos in Tbilisi",
+    "target": "{\"act\": \"search\", \"add\": \"Tbilisi\", \"record\": \"photos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Moscow\", \"record\": \"photos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve messages from Tallinn",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"messages\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"messages\"}",
+    "exact_match": true
+  },
+  {
+    "input": "retrieve photos from Reykjavik",
+    "target": "{\"act\": \"fetch\", \"add\": \"Reykjavik\", \"record\": \"photos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"photos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase documents from Vladivostok",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "pull photos from Christchurch",
+    "target": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"photos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"photos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "I want to share notes from Tallinn",
+    "target": "{\"act\": \"share\", \"add\": \"Tallinn\", \"record\": \"notes\"}",
+    "prediction": "{\"act\": \"share\", \"add\": \"Tallinn\", \"record\": \"notes\"}",
+    "exact_match": true
+  },
+  {
+    "input": "show me files from Porto",
+    "target": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"files\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"files\"}",
+    "exact_match": true
+  },
+  {
+    "input": "search bookmarks taken in Reykjavik",
+    "target": "{\"act\": \"search\", \"add\": \"Reykjavik\", \"record\": \"bookmarks\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"bookmarks\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve documents from Reykjavik since today",
+    "target": "{\"act\": \"fetch\", \"add\": \"Reykjavik\", \"record\": \"documents\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "download my videos from Marrakech",
+    "target": "{\"act\": \"download\", \"add\": \"Marrakech\", \"record\": \"videos\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"Marrakech\", \"record\": \"videos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "remove messages from Vladivostok from last year",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"messages\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get documents from Tallinn",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"documents\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"documents\"}",
+    "exact_match": true
+  },
+  {
+    "input": "remove photos from Porto",
+    "target": "{\"act\": \"delete\", \"add\": \"Porto\", \"record\": \"photos\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Porto\", \"record\": \"photos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "sync all reminders in Tallinn",
+    "target": "{\"act\": \"sync\", \"add\": \"Tallinn\", \"record\": \"reminders\"}",
+    "prediction": "{\"act\": \"sync\", \"add\": \"Tallinn\", \"record\": \"reminders\"}",
+    "exact_match": true
+  },
+  {
+    "input": "remove videos from Bruges",
+    "target": "{\"act\": \"delete\", \"add\": \"Bruges\", \"record\": \"videos\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Bruges\", \"record\": \"videos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "find documents from Bruges",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"documents\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"documents\"}",
+    "exact_match": true
+  },
+  {
+    "input": "backup all contacts in Reykjavik since last year",
+    "target": "{\"act\": \"backup\", \"add\": \"Reykjavik\", \"record\": \"contacts\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"backup\", \"add\": \"Iceland\", \"record\": \"contacts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "I want to upload contacts from Porto",
+    "target": "{\"act\": \"upload\", \"add\": \"Porto\", \"record\": \"contacts\"}",
+    "prediction": "{\"act\": \"upload\", \"add\": \"Porto\", \"record\": \"contacts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "retrieve files from Porto",
+    "target": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"files\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"files\"}",
+    "exact_match": true
+  },
+  {
+    "input": "sync photos from Marrakech",
+    "target": "{\"act\": \"sync\", \"add\": \"Marrakech\", \"record\": \"photos\"}",
+    "prediction": "{\"act\": \"sync\", \"add\": \"Marrakech\", \"record\": \"photos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "remove reminders from Reykjavik from today",
+    "target": "{\"act\": \"delete\", \"add\": \"Reykjavik\", \"record\": \"reminders\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Iceland\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "pull contacts from Montevideo",
+    "target": "{\"act\": \"fetch\", \"add\": \"Montevideo\", \"record\": \"contacts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Montevideo\", \"record\": \"contacts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "find messages from Christchurch",
+    "target": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"messages\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"messages\"}",
+    "exact_match": true
+  },
+  {
+    "input": "export photos from Christchurch",
+    "target": "{\"act\": \"export\", \"add\": \"Christchurch\", \"record\": \"photos\"}",
+    "prediction": "{\"act\": \"export\", \"add\": \"Christchurch\", \"record\": \"photos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "find photos from Marrakech from last month",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"photos\", \"time\": \"last month\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"photos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "search all notes in Heidelberg since last year",
+    "target": "{\"act\": \"search\", \"add\": \"Heidelberg\", \"record\": \"notes\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Heidelberg\", \"record\": \"notes\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get bookmarks in Christchurch from this morning",
+    "target": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"bookmarks\", \"time\": \"this morning\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"bookmarks\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find documents from Heidelberg from this week",
+    "target": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"documents\", \"time\": \"this week\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "I want to backup bookmarks from Tallinn",
+    "target": "{\"act\": \"backup\", \"add\": \"Tallinn\", \"record\": \"bookmarks\"}",
+    "prediction": "{\"act\": \"backup\", \"add\": \"Tallinn\", \"record\": \"bookmarks\"}",
+    "exact_match": true
+  },
+  {
+    "input": "erase files from Reykjavik",
+    "target": "{\"act\": \"delete\", \"add\": \"Reykjavik\", \"record\": \"files\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"files\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase contacts from Tbilisi",
+    "target": "{\"act\": \"delete\", \"add\": \"Tbilisi\", \"record\": \"contacts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tbilisi\", \"record\": \"contacts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "share my photos from Christchurch",
+    "target": "{\"act\": \"share\", \"add\": \"Christchurch\", \"record\": \"photos\"}",
+    "prediction": "{\"act\": \"share\", \"add\": \"Christchurch\", \"record\": \"photos\"}",
+    "exact_match": true
+  },
+  {
+    "input": "look up notes near Reykjavik",
+    "target": "{\"act\": \"search\", \"add\": \"Reykjavik\", \"record\": \"notes\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Iceland\", \"record\": \"notes\"}",
+    "exact_match": false
+  },
+  {
+    "input": "fetch contacts from Bruges last year",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"contacts\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"contacts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "pull sketches from Singapore",
+    "target": "{\"act\": \"fetch\", \"add\": \"Singapore\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Singapore\", \"record\": \"sketches\"}",
+    "exact_match": true
+  },
+  {
+    "input": "retrieve memos from Tokyo since last week",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tokyo\", \"record\": \"memos\", \"time\": \"last week\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tokyo\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me podcasts from Mumbai, two days ago",
+    "target": "{\"act\": \"fetch\", \"add\": \"Mumbai\", \"record\": \"podcasts\", \"time\": \"two days ago\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Mumbai\", \"record\": \"videos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve podcasts from Singapore since today",
+    "target": "{\"act\": \"fetch\", \"add\": \"Singapore\", \"record\": \"podcasts\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Singapore\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me receipts from Bangalore, yesterday",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bangalore\", \"record\": \"receipts\", \"time\": \"yesterday\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \" Bangalore\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me memos from Seoul",
+    "target": "{\"act\": \"fetch\", \"add\": \"Seoul\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \" Seoul\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "delete all receipts in Mumbai",
+    "target": "{\"act\": \"delete\", \"add\": \"Mumbai\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Mumbai\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "locate invoices in Jakarta",
+    "target": "{\"act\": \"search\", \"add\": \"Jakarta\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Jakarta\", \"record\": \"invoices\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find invoices from Madrid from two days ago",
+    "target": "{\"act\": \"fetch\", \"add\": \"Madrid\", \"record\": \"invoices\", \"time\": \"two days ago\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Madrid\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me sketches from Tokyo, last month",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tokyo\", \"record\": \"sketches\", \"time\": \"last month\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tokyo\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "fetch my receipts from Rome",
+    "target": "{\"act\": \"fetch\", \"add\": \"Rome\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Rome\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove memos from Berlin from this week",
+    "target": "{\"act\": \"delete\", \"add\": \"Berlin\", \"record\": \"memos\", \"time\": \"this week\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Berlin\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "search sketches from Berlin yesterday",
+    "target": "{\"act\": \"search\", \"add\": \"Berlin\", \"record\": \"sketches\", \"time\": \"yesterday\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Berlin\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "please sync receipts from Moscow",
+    "target": "{\"act\": \"sync\", \"add\": \"Moscow\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"sync\", \"add\": \"Moscow\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove memos from Paris from this morning",
+    "target": "{\"act\": \"delete\", \"add\": \"Paris\", \"record\": \"memos\", \"time\": \"this morning\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Paris\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "look up podcasts near Chennai",
+    "target": "{\"act\": \"search\", \"add\": \"Chennai\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Chennai\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove memos from Tokyo from today",
+    "target": "{\"act\": \"delete\", \"add\": \"Tokyo\", \"record\": \"memos\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Tokyo\", \"record\": \"Memos\", \"record\": \"Memos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "I want to sync receipts from Paris",
+    "target": "{\"act\": \"sync\", \"add\": \"Paris\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"sync\", \"add\": \"Paris\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "I want to download memos from Singapore",
+    "target": "{\"act\": \"download\", \"add\": \"Singapore\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"Singapore\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me podcasts from Shanghai, this morning",
+    "target": "{\"act\": \"fetch\", \"add\": \"Shanghai\", \"record\": \"podcasts\", \"time\": \"this morning\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Shanghai\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve podcasts from Rome",
+    "target": "{\"act\": \"fetch\", \"add\": \"Rome\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Rome\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "fetch memos taken in Paris",
+    "target": "{\"act\": \"fetch\", \"add\": \"Paris\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Paris\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find memos from Paris",
+    "target": "{\"act\": \"fetch\", \"add\": \"Paris\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Paris\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve sketches from Rome",
+    "target": "{\"act\": \"fetch\", \"add\": \"Rome\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Rome\", \"record\": \"sketches\"}",
+    "exact_match": true
+  },
+  {
+    "input": "locate podcasts in Jakarta",
+    "target": "{\"act\": \"search\", \"add\": \"Jakarta\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Jakarta\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "get invoices from Bangalore",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bangalore\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \" Bangalore\", \"record\": \"invoices\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get podcasts from Mumbai",
+    "target": "{\"act\": \"fetch\", \"add\": \"Mumbai\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Mumbai\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "download receipts from Singapore last month",
+    "target": "{\"act\": \"download\", \"add\": \"Singapore\", \"record\": \"receipts\", \"time\": \"last month\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"Singapore\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find memos from Jakarta",
+    "target": "{\"act\": \"fetch\", \"add\": \"Jakarta\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Jakarta\", \"record\": \"Memos\", \"record\": \"Memos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "I want to backup podcasts from Sydney",
+    "target": "{\"act\": \"backup\", \"add\": \"Sydney\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"backup\", \"add\": \"Sydney\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "upload sketches from Cairo last week",
+    "target": "{\"act\": \"upload\", \"add\": \"Cairo\", \"record\": \"sketches\", \"time\": \"last week\"}",
+    "prediction": "{\"act\": \"upload\", \"add\": \"Cairo\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove podcasts from Rome",
+    "target": "{\"act\": \"delete\", \"add\": \"Rome\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Rome\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "search all receipts in Rome since last year",
+    "target": "{\"act\": \"search\", \"add\": \"Rome\", \"record\": \"receipts\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Rome\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve sketches from Sydney since two days ago",
+    "target": "{\"act\": \"fetch\", \"add\": \"Sydney\", \"record\": \"sketches\", \"time\": \"two days ago\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Sydney\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get memos from Sydney",
+    "target": "{\"act\": \"fetch\", \"add\": \"Sydney\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Sydney\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "sync all podcasts in Bangkok",
+    "target": "{\"act\": \"sync\", \"add\": \"Bangkok\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"sync\", \"add\": \"Bangkok\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "look up podcasts near Mumbai",
+    "target": "{\"act\": \"search\", \"add\": \"Mumbai\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Mumbai\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find podcasts from Mumbai",
+    "target": "{\"act\": \"fetch\", \"add\": \"Mumbai\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Mumbai\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove memos from Cairo from yesterday",
+    "target": "{\"act\": \"delete\", \"add\": \"Cairo\", \"record\": \"memos\", \"time\": \"yesterday\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Cairo\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase receipts from Jakarta",
+    "target": "{\"act\": \"delete\", \"add\": \"Jakarta\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Jakarta\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "I want to download podcasts from New York",
+    "target": "{\"act\": \"download\", \"add\": \"New York\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"New York\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "I want to export podcasts from Sydney",
+    "target": "{\"act\": \"export\", \"add\": \"Sydney\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"export\", \"add\": \"Sydney\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "look up podcasts near Jakarta",
+    "target": "{\"act\": \"search\", \"add\": \"Jakarta\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Jakarta\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "share all memos in Moscow",
+    "target": "{\"act\": \"share\", \"add\": \"Moscow\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"share\", \"add\": \"Moscow\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get receipts in Delhi from last year",
+    "target": "{\"act\": \"fetch\", \"add\": \"Delhi\", \"record\": \"receipts\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Delhi\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get invoices from Tokyo",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tokyo\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tokyo\", \"record\": \"invoices\"}",
+    "exact_match": true
+  },
+  {
+    "input": "find memos from Seoul from last month",
+    "target": "{\"act\": \"fetch\", \"add\": \"Seoul\", \"record\": \"memos\", \"time\": \"last month\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"seoul\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me invoices from Shanghai, last month",
+    "target": "{\"act\": \"fetch\", \"add\": \"Shanghai\", \"record\": \"invoices\", \"time\": \"last month\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Shanghai\", \"record\": \"invoices\"}",
+    "exact_match": false
+  },
+  {
+    "input": "archive podcasts from Mumbai",
+    "target": "{\"act\": \"archive\", \"add\": \"Mumbai\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"archive\", \"add\": \"Mumbai\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "retrieve podcasts from Moscow since today",
+    "target": "{\"act\": \"fetch\", \"add\": \"Moscow\", \"record\": \"podcasts\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Moscow\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "look up sketches near Bangalore",
+    "target": "{\"act\": \"search\", \"add\": \"Bangalore\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \" Bangalore\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me sketches from Seoul, today",
+    "target": "{\"act\": \"fetch\", \"add\": \"Seoul\", \"record\": \"sketches\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"seoul\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "backup all invoices in Paris",
+    "target": "{\"act\": \"backup\", \"add\": \"Paris\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"backup\", \"add\": \"Paris\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me receipts from Jakarta",
+    "target": "{\"act\": \"fetch\", \"add\": \"Jakarta\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Jakarta\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase sketches from Seoul",
+    "target": "{\"act\": \"delete\", \"add\": \"Seoul\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \" Seoul\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find receipts from Sydney",
+    "target": "{\"act\": \"fetch\", \"add\": \"Sydney\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Sydney\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "locate podcasts in Dubai",
+    "target": "{\"act\": \"search\", \"add\": \"Dubai\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Dubai\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "retrieve sketches from Seoul since this morning",
+    "target": "{\"act\": \"fetch\", \"add\": \"Seoul\", \"record\": \"sketches\", \"time\": \"this morning\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"seoul\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "look up receipts near Cairo",
+    "target": "{\"act\": \"search\", \"add\": \"Cairo\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Cairo\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "share my invoices from Cairo",
+    "target": "{\"act\": \"share\", \"add\": \"Cairo\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"share\", \"add\": \"Cairo\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase receipts from Vladivostok",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Volgograd\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me sketches from Reykjavik",
+    "target": "{\"act\": \"fetch\", \"add\": \"Reykjavik\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \" Reykjavik\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "locate memos in Marrakech",
+    "target": "{\"act\": \"search\", \"add\": \"Marrakech\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Marrakech\", \"record\": \"Memos\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "pull sketches from Porto",
+    "target": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"sketches\"}",
+    "exact_match": true
+  },
+  {
+    "input": "please backup sketches from Christchurch",
+    "target": "{\"act\": \"backup\", \"add\": \"Christchurch\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"backup\", \"add\": \"Christchurch\", \"record\": \"sketches\"}",
+    "exact_match": true
+  },
+  {
+    "input": "backup memos from Bruges",
+    "target": "{\"act\": \"backup\", \"add\": \"Bruges\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"backup\", \"add\": \"Bruges\", \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\":",
+    "exact_match": false
+  },
+  {
+    "input": "find invoices from Heidelberg from today",
+    "target": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"invoices\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"invoices\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove invoices from Vladivostok",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove invoices from Vladivostok from last week",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"invoices\", \"time\": \"last week\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "pull memos from Porto",
+    "target": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Porto\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "look up invoices near Bruges",
+    "target": "{\"act\": \"search\", \"add\": \"Bruges\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me invoices from Christchurch",
+    "target": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"invoices\"}",
+    "exact_match": true
+  },
+  {
+    "input": "erase memos from Vladivostok",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Volgograd\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me receipts from Christchurch",
+    "target": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get invoices in Vladivostok from this week",
+    "target": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"invoices\", \"time\": \"this week\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me sketches from Marrakech",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"sketches\"}",
+    "exact_match": true
+  },
+  {
+    "input": "please sync invoices from Tbilisi",
+    "target": "{\"act\": \"sync\", \"add\": \"Tbilisi\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"sync\", \"add\": \"Tbilisi\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "backup all invoices in Montevideo since yesterday",
+    "target": "{\"act\": \"backup\", \"add\": \"Montevideo\", \"record\": \"invoices\", \"time\": \"yesterday\"}",
+    "prediction": "{\"act\": \"backup\", \"add\": \"Montevideo\", \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\": \"record\":",
+    "exact_match": false
+  },
+  {
+    "input": "find sketches from Vladivostok from today",
+    "target": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"sketches\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find memos from Vladivostok from this week",
+    "target": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"memos\", \"time\": \"this week\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Vladivostok\", \"record\": \"Memos\", \"record\": \"Memos\", \"record\": \"Memos\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "download memos taken in Reykjavik",
+    "target": "{\"act\": \"download\", \"add\": \"Reykjavik\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"Iceland\", \"record\": \"Memo\", \"record\": \"Memo\", \"record\": \"Memo\", \"record\": \"Memo\", \"record\": \"files\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get receipts from Tallinn",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "download all receipts in Bruges",
+    "target": "{\"act\": \"download\", \"add\": \"Bruges\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"Bruges\", \"record\": \"reminders\"}",
+    "exact_match": false
+  },
+  {
+    "input": "export all sketches in Reykjavik",
+    "target": "{\"act\": \"export\", \"add\": \"Reykjavik\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"export\", \"add\": \"Iceland\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me sketches from Bruges, yesterday",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"sketches\", \"time\": \"yesterday\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "I want to download receipts from Tbilisi",
+    "target": "{\"act\": \"download\", \"add\": \"Tbilisi\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"Tbilisi\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me sketches from Tallinn, last week",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"sketches\", \"time\": \"last week\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "fetch all podcasts in Marrakech since last month",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"podcasts\", \"time\": \"last month\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"videos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "erase podcasts from Marrakech",
+    "target": "{\"act\": \"delete\", \"add\": \"Marrakech\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "please export podcasts from Montevideo",
+    "target": "{\"act\": \"export\", \"add\": \"Montevideo\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"export\", \"add\": \"Montevideo\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "remove sketches from Heidelberg",
+    "target": "{\"act\": \"delete\", \"add\": \"Heidelberg\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Heidelberg\", \"record\": \"sketches\"}",
+    "exact_match": true
+  },
+  {
+    "input": "get sketches from Bruges",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"sketches\"}",
+    "exact_match": true
+  },
+  {
+    "input": "I want to export invoices from Vladivostok",
+    "target": "{\"act\": \"export\", \"add\": \"Vladivostok\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"export\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove invoices from Montevideo from last week",
+    "target": "{\"act\": \"delete\", \"add\": \"Montevideo\", \"record\": \"invoices\", \"time\": \"last week\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Montevideo\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove invoices from Tbilisi",
+    "target": "{\"act\": \"delete\", \"add\": \"Tbilisi\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Tbilisi\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "show me invoices from Montevideo",
+    "target": "{\"act\": \"fetch\", \"add\": \"Montevideo\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Montevideo\", \"record\": \"invoices\"}",
+    "exact_match": true
+  },
+  {
+    "input": "look up memos near Christchurch",
+    "target": "{\"act\": \"search\", \"add\": \"Christchurch\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "look up podcasts near Heidelberg",
+    "target": "{\"act\": \"search\", \"add\": \"Heidelberg\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "upload memos from Montevideo",
+    "target": "{\"act\": \"upload\", \"add\": \"Montevideo\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"upload\", \"add\": \"Montevideo\", \"record\": \"files\"}",
+    "exact_match": false
+  },
+  {
+    "input": "pull memos from Bruges",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find podcasts from Vladivostok",
+    "target": "{\"act\": \"fetch\", \"add\": \"Vladivostok\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Vladivostok\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "I want to fetch podcasts from Christchurch",
+    "target": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "archive sketches from Montevideo",
+    "target": "{\"act\": \"archive\", \"add\": \"Montevideo\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Montevideo\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve memos from Tallinn since yesterday",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"memos\", \"time\": \"yesterday\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "please search memos from Bruges",
+    "target": "{\"act\": \"search\", \"add\": \"Bruges\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"search\", \"add\": \"Bruges\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "export podcasts taken in Heidelberg",
+    "target": "{\"act\": \"export\", \"add\": \"Heidelberg\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"export\", \"add\": \"Heidelberg\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "find sketches from Christchurch from today",
+    "target": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"sketches\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Christchurch\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get memos in Marrakech from today",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"memos\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get sketches in Heidelberg from two days ago",
+    "target": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"sketches\", \"time\": \"two days ago\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Heidelberg\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "download my receipts from Montevideo",
+    "target": "{\"act\": \"download\", \"add\": \"Montevideo\", \"record\": \"receipts\"}",
+    "prediction": "{\"act\": \"download\", \"add\": \"Montevideo\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "share all invoices in Bruges since today",
+    "target": "{\"act\": \"share\", \"add\": \"Bruges\", \"record\": \"invoices\", \"time\": \"today\"}",
+    "prediction": "{\"act\": \"share\", \"add\": \"Bruges\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "upload all invoices in Vladivostok",
+    "target": "{\"act\": \"upload\", \"add\": \"Vladivostok\", \"record\": \"invoices\"}",
+    "prediction": "{\"act\": \"upload\", \"add\": \"Vladivostok\", \"record\": \"documents\"}",
+    "exact_match": false
+  },
+  {
+    "input": "remove memos from Tallinn",
+    "target": "{\"act\": \"delete\", \"add\": \"Tallinn\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Tallinn\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "retrieve podcasts from Bruges",
+    "target": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Bruges\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "please delete memos from Vladivostok",
+    "target": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"memos\"}",
+    "prediction": "{\"act\": \"delete\", \"add\": \"Vladivostok\", \"record\": \"messages\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find podcasts from Tallinn from last year",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"podcasts\", \"time\": \"last year\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tallinn\", \"record\": \"podcasts\"}",
+    "exact_match": false
+  },
+  {
+    "input": "find memos from Tbilisi from yesterday",
+    "target": "{\"act\": \"fetch\", \"add\": \"Tbilisi\", \"record\": \"memos\", \"time\": \"yesterday\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Tbilisi\", \"record\": \"Memos\", \"record\": \"Memos\"}",
+    "exact_match": false
+  },
+  {
+    "input": "get podcasts from Marrakech",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  },
+  {
+    "input": "archive sketches taken in Vladivostok",
+    "target": "{\"act\": \"archive\", \"add\": \"Vladivostok\", \"record\": \"sketches\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Volgograd\", \"record\": \"sketches\"}",
+    "exact_match": false
+  },
+  {
+    "input": "fetch podcasts taken in Marrakech",
+    "target": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"podcasts\"}",
+    "prediction": "{\"act\": \"fetch\", \"add\": \"Marrakech\", \"record\": \"podcasts\"}",
+    "exact_match": true
+  }
+]

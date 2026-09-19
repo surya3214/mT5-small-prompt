@@ -1,0 +1,4980 @@
+[
+  {
+    "input": "share my documents from Bangalore",
+    "target": {
+      "act": "share",
+      "add": "Bangalore",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "fetch bookmarks from Mumbai two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "bookmarks",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "get notes in New York from last week",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "notes",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "sync my messages from Cairo",
+    "target": {
+      "act": "sync",
+      "add": "Cairo",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "look up contacts near Bangalore",
+    "target": {
+      "act": "search",
+      "add": "Bangalore",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "download my contacts from Singapore",
+    "target": {
+      "act": "download",
+      "add": "Singapore",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "find videos from Shanghai from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "videos",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "show me emails from Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "get videos in Shanghai from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "videos",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "pull files from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "files"
+    }
+  },
+  {
+    "input": "retrieve photos from Berlin since last month",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "photos",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "remove notes from Berlin",
+    "target": {
+      "act": "delete",
+      "add": "Berlin",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "retrieve emails from Singapore since last year",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "emails",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "retrieve notes from Delhi since this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "notes",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "retrieve reminders from Berlin",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "show me contacts from Sydney, two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "contacts",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "retrieve notes from Cairo since last year",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "notes",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "remove notes from Tokyo",
+    "target": {
+      "act": "delete",
+      "add": "Tokyo",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "find messages from Chennai from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "messages",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "backup all files in Bangkok since this week",
+    "target": {
+      "act": "backup",
+      "add": "Bangkok",
+      "record": "files",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "please upload contacts from Moscow",
+    "target": {
+      "act": "upload",
+      "add": "Moscow",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "find bookmarks from Cairo from two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "bookmarks",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "upload my files from Shanghai",
+    "target": {
+      "act": "upload",
+      "add": "Shanghai",
+      "record": "files"
+    }
+  },
+  {
+    "input": "remove photos from Berlin",
+    "target": {
+      "act": "delete",
+      "add": "Berlin",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "get messages in Paris from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "messages",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me emails from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "retrieve photos from Cairo since yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "photos",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "locate documents in Cairo",
+    "target": {
+      "act": "search",
+      "add": "Cairo",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "find documents from Mumbai",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "get documents in Bangalore from today",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "documents",
+      "time": "today"
+    }
+  },
+  {
+    "input": "remove documents from Mumbai",
+    "target": {
+      "act": "delete",
+      "add": "Mumbai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "download notes taken in Jakarta",
+    "target": {
+      "act": "download",
+      "add": "Jakarta",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "erase bookmarks from Cairo",
+    "target": {
+      "act": "delete",
+      "add": "Cairo",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "download emails from Chennai yesterday",
+    "target": {
+      "act": "download",
+      "add": "Chennai",
+      "record": "emails",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "share notes from Dubai",
+    "target": {
+      "act": "share",
+      "add": "Dubai",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "look up videos near Berlin",
+    "target": {
+      "act": "search",
+      "add": "Berlin",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "locate bookmarks in Berlin",
+    "target": {
+      "act": "search",
+      "add": "Berlin",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "export all bookmarks in Rome since this morning",
+    "target": {
+      "act": "export",
+      "add": "Rome",
+      "record": "bookmarks",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "erase notes from Seoul",
+    "target": {
+      "act": "delete",
+      "add": "Seoul",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "find documents from New York",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "erase emails from Delhi",
+    "target": {
+      "act": "delete",
+      "add": "Delhi",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "delete my notes from Mumbai",
+    "target": {
+      "act": "delete",
+      "add": "Mumbai",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "archive my bookmarks from Bangkok",
+    "target": {
+      "act": "archive",
+      "add": "Bangkok",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "fetch all photos in Berlin since yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "photos",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "search my bookmarks from Berlin",
+    "target": {
+      "act": "search",
+      "add": "Berlin",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "archive bookmarks taken in New York",
+    "target": {
+      "act": "archive",
+      "add": "New York",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "locate emails in Sydney",
+    "target": {
+      "act": "search",
+      "add": "Sydney",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "retrieve videos from Mumbai",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "get messages from Seoul",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "backup videos from Tokyo",
+    "target": {
+      "act": "backup",
+      "add": "Tokyo",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "share my notes from Mumbai",
+    "target": {
+      "act": "share",
+      "add": "Mumbai",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "search messages taken in London",
+    "target": {
+      "act": "search",
+      "add": "London",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "locate emails in Berlin",
+    "target": {
+      "act": "search",
+      "add": "Berlin",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "export videos from Cairo",
+    "target": {
+      "act": "export",
+      "add": "Cairo",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "backup notes taken in Berlin",
+    "target": {
+      "act": "backup",
+      "add": "Berlin",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "erase messages from New York",
+    "target": {
+      "act": "delete",
+      "add": "New York",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "show me photos from Shanghai, this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "photos",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "find documents from Moscow",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "share emails taken in Cairo",
+    "target": {
+      "act": "share",
+      "add": "Cairo",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "retrieve reminders from Tokyo since last week",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "reminders",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pull photos from Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "export contacts from Madrid",
+    "target": {
+      "act": "export",
+      "add": "Madrid",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "get videos in Paris from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "videos",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "archive all messages in Sydney",
+    "target": {
+      "act": "archive",
+      "add": "Sydney",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "get photos in Jakarta from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "photos",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me reminders from Bangkok",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "retrieve notes from Singapore",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "find documents from Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "find emails from Dubai from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "emails",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "export reminders from Jakarta yesterday",
+    "target": {
+      "act": "export",
+      "add": "Jakarta",
+      "record": "reminders",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "find contacts from Singapore from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "contacts",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "sync documents taken in Delhi",
+    "target": {
+      "act": "sync",
+      "add": "Delhi",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "locate reminders in Dubai",
+    "target": {
+      "act": "search",
+      "add": "Dubai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "please delete bookmarks from Bangalore",
+    "target": {
+      "act": "delete",
+      "add": "Bangalore",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "delete all documents in London",
+    "target": {
+      "act": "delete",
+      "add": "London",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "please archive documents from London",
+    "target": {
+      "act": "archive",
+      "add": "London",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "retrieve notes from Chennai since this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "notes",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "backup all photos in Singapore",
+    "target": {
+      "act": "backup",
+      "add": "Singapore",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "I want to upload photos from Tokyo",
+    "target": {
+      "act": "upload",
+      "add": "Tokyo",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "look up contacts near Singapore",
+    "target": {
+      "act": "search",
+      "add": "Singapore",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "delete bookmarks from Seoul",
+    "target": {
+      "act": "delete",
+      "add": "Seoul",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "archive bookmarks from London last year",
+    "target": {
+      "act": "archive",
+      "add": "London",
+      "record": "bookmarks",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "search contacts from Seoul",
+    "target": {
+      "act": "search",
+      "add": "Seoul",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "share my files from Tokyo",
+    "target": {
+      "act": "share",
+      "add": "Tokyo",
+      "record": "files"
+    }
+  },
+  {
+    "input": "erase bookmarks from Delhi",
+    "target": {
+      "act": "delete",
+      "add": "Delhi",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "erase contacts from Jakarta",
+    "target": {
+      "act": "delete",
+      "add": "Jakarta",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "erase contacts from Paris",
+    "target": {
+      "act": "delete",
+      "add": "Paris",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "locate files in Paris",
+    "target": {
+      "act": "search",
+      "add": "Paris",
+      "record": "files"
+    }
+  },
+  {
+    "input": "delete documents taken in Sydney",
+    "target": {
+      "act": "delete",
+      "add": "Sydney",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "share my emails from Tokyo",
+    "target": {
+      "act": "share",
+      "add": "Tokyo",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "please share files from Moscow",
+    "target": {
+      "act": "share",
+      "add": "Moscow",
+      "record": "files"
+    }
+  },
+  {
+    "input": "find messages from New York from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "messages",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "retrieve files from Singapore",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "files"
+    }
+  },
+  {
+    "input": "delete files from Cairo",
+    "target": {
+      "act": "delete",
+      "add": "Cairo",
+      "record": "files"
+    }
+  },
+  {
+    "input": "pull contacts from Singapore",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "archive all photos in Singapore",
+    "target": {
+      "act": "archive",
+      "add": "Singapore",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "pull messages from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "erase messages from Mumbai",
+    "target": {
+      "act": "delete",
+      "add": "Mumbai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "look up photos near Singapore",
+    "target": {
+      "act": "search",
+      "add": "Singapore",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "retrieve bookmarks from Madrid",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "find files from New York",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "files"
+    }
+  },
+  {
+    "input": "find reminders from Chennai from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "reminders",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "please backup bookmarks from Dubai",
+    "target": {
+      "act": "backup",
+      "add": "Dubai",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "share bookmarks taken in Dubai",
+    "target": {
+      "act": "share",
+      "add": "Dubai",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "pull contacts from Shanghai",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "remove bookmarks from Shanghai",
+    "target": {
+      "act": "delete",
+      "add": "Shanghai",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "show me notes from Dubai, last year",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "notes",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "show me notes from Moscow",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "please export videos from Paris",
+    "target": {
+      "act": "export",
+      "add": "Paris",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "share all files in Jakarta",
+    "target": {
+      "act": "share",
+      "add": "Jakarta",
+      "record": "files"
+    }
+  },
+  {
+    "input": "fetch notes taken in Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "remove reminders from Rome from yesterday",
+    "target": {
+      "act": "delete",
+      "add": "Rome",
+      "record": "reminders",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "look up notes near Bangkok",
+    "target": {
+      "act": "search",
+      "add": "Bangkok",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "upload my messages from Rome",
+    "target": {
+      "act": "upload",
+      "add": "Rome",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "locate videos in Bangalore",
+    "target": {
+      "act": "search",
+      "add": "Bangalore",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "get bookmarks from Paris",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "show me videos from Sydney, today",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "videos",
+      "time": "today"
+    }
+  },
+  {
+    "input": "pull bookmarks from Madrid",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "remove reminders from Moscow",
+    "target": {
+      "act": "delete",
+      "add": "Moscow",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "remove messages from Madrid",
+    "target": {
+      "act": "delete",
+      "add": "Madrid",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "look up contacts near Moscow",
+    "target": {
+      "act": "search",
+      "add": "Moscow",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "locate documents in Moscow",
+    "target": {
+      "act": "search",
+      "add": "Moscow",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "show me bookmarks from Singapore, last month",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "bookmarks",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download all documents in Berlin since this morning",
+    "target": {
+      "act": "download",
+      "add": "Berlin",
+      "record": "documents",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "upload videos taken in Cairo",
+    "target": {
+      "act": "upload",
+      "add": "Cairo",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "backup notes from London two days ago",
+    "target": {
+      "act": "backup",
+      "add": "London",
+      "record": "notes",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "share messages from Moscow",
+    "target": {
+      "act": "share",
+      "add": "Moscow",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "look up reminders near Shanghai",
+    "target": {
+      "act": "search",
+      "add": "Shanghai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "show me messages from Bangkok, last week",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "messages",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "remove messages from Dubai",
+    "target": {
+      "act": "delete",
+      "add": "Dubai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "look up bookmarks near Seoul",
+    "target": {
+      "act": "search",
+      "add": "Seoul",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "get notes from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "download emails from Seoul two days ago",
+    "target": {
+      "act": "download",
+      "add": "Seoul",
+      "record": "emails",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "remove contacts from Shanghai",
+    "target": {
+      "act": "delete",
+      "add": "Shanghai",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "show me reminders from London",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "get reminders in Shanghai from last week",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "reminders",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "remove contacts from Seoul from this week",
+    "target": {
+      "act": "delete",
+      "add": "Seoul",
+      "record": "contacts",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "find messages from Singapore from last month",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "messages",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "please backup messages from Chennai",
+    "target": {
+      "act": "backup",
+      "add": "Chennai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "download emails from Berlin last week",
+    "target": {
+      "act": "download",
+      "add": "Berlin",
+      "record": "emails",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "remove photos from Berlin from last week",
+    "target": {
+      "act": "delete",
+      "add": "Berlin",
+      "record": "photos",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pull photos from New York",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "retrieve emails from London since yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "emails",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "look up emails near New York",
+    "target": {
+      "act": "search",
+      "add": "New York",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "get contacts in Delhi from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "contacts",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "archive all documents in Paris",
+    "target": {
+      "act": "archive",
+      "add": "Paris",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "retrieve reminders from Dubai since two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "reminders",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "pull videos from New York",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "look up videos near Sydney",
+    "target": {
+      "act": "search",
+      "add": "Sydney",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "locate videos in Jakarta",
+    "target": {
+      "act": "search",
+      "add": "Jakarta",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "show me files from Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "files"
+    }
+  },
+  {
+    "input": "show me videos from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "remove messages from Bangalore",
+    "target": {
+      "act": "delete",
+      "add": "Bangalore",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "retrieve files from Seoul",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "files"
+    }
+  },
+  {
+    "input": "find contacts from Moscow",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "get documents in Madrid from this week",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "documents",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "I want to share documents from Bangkok",
+    "target": {
+      "act": "share",
+      "add": "Bangkok",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "erase documents from Berlin",
+    "target": {
+      "act": "delete",
+      "add": "Berlin",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "pull reminders from Moscow",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "get photos from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "download my emails from Paris",
+    "target": {
+      "act": "download",
+      "add": "Paris",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "erase documents from Chennai",
+    "target": {
+      "act": "delete",
+      "add": "Chennai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "export bookmarks from Singapore",
+    "target": {
+      "act": "export",
+      "add": "Singapore",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "look up notes near Berlin",
+    "target": {
+      "act": "search",
+      "add": "Berlin",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "look up notes near Cairo",
+    "target": {
+      "act": "search",
+      "add": "Cairo",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "locate emails in Rome",
+    "target": {
+      "act": "search",
+      "add": "Rome",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "show me notes from Dubai, last month",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "notes",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get files from Bangkok",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "files"
+    }
+  },
+  {
+    "input": "look up messages near Delhi",
+    "target": {
+      "act": "search",
+      "add": "Delhi",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "please search emails from Delhi",
+    "target": {
+      "act": "search",
+      "add": "Delhi",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "find notes from Mumbai from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "notes",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "sync my notes from Paris",
+    "target": {
+      "act": "sync",
+      "add": "Paris",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "get bookmarks in Bangkok from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "bookmarks",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "download my documents from New York",
+    "target": {
+      "act": "download",
+      "add": "New York",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "fetch all bookmarks in Bangalore since this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "bookmarks",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "look up documents near Cairo",
+    "target": {
+      "act": "search",
+      "add": "Cairo",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "remove videos from Rome",
+    "target": {
+      "act": "delete",
+      "add": "Rome",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "show me emails from Dubai, this week",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "emails",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "remove documents from Tokyo",
+    "target": {
+      "act": "delete",
+      "add": "Tokyo",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "get messages from Berlin",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "delete all contacts in Tokyo since this morning",
+    "target": {
+      "act": "delete",
+      "add": "Tokyo",
+      "record": "contacts",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "locate bookmarks in Mumbai",
+    "target": {
+      "act": "search",
+      "add": "Mumbai",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "export my reminders from Jakarta",
+    "target": {
+      "act": "export",
+      "add": "Jakarta",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "remove documents from Moscow",
+    "target": {
+      "act": "delete",
+      "add": "Moscow",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "pull documents from Seoul",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "retrieve documents from New York since yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "documents",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "fetch bookmarks from Paris today",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "bookmarks",
+      "time": "today"
+    }
+  },
+  {
+    "input": "please fetch emails from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "search emails from Dubai last month",
+    "target": {
+      "act": "search",
+      "add": "Dubai",
+      "record": "emails",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "find notes from Bangkok",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "find contacts from Sydney from today",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "contacts",
+      "time": "today"
+    }
+  },
+  {
+    "input": "get documents in Paris from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "documents",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "look up documents near Moscow",
+    "target": {
+      "act": "search",
+      "add": "Moscow",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "show me bookmarks from Singapore",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "backup reminders from Berlin",
+    "target": {
+      "act": "backup",
+      "add": "Berlin",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "delete documents from Jakarta",
+    "target": {
+      "act": "delete",
+      "add": "Jakarta",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "archive reminders from Bangkok this morning",
+    "target": {
+      "act": "archive",
+      "add": "Bangkok",
+      "record": "reminders",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "get emails in Paris from this week",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "emails",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "find reminders from Paris",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "get videos from Rome",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "retrieve files from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "files"
+    }
+  },
+  {
+    "input": "show me files from Paris, this week",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "files",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "delete bookmarks from Shanghai this week",
+    "target": {
+      "act": "delete",
+      "add": "Shanghai",
+      "record": "bookmarks",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "locate videos in Chennai",
+    "target": {
+      "act": "search",
+      "add": "Chennai",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "retrieve photos from Madrid",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "retrieve emails from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "please export notes from Tokyo",
+    "target": {
+      "act": "export",
+      "add": "Tokyo",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "retrieve emails from Dubai since this week",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "emails",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "retrieve notes from Jakarta since today",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "notes",
+      "time": "today"
+    }
+  },
+  {
+    "input": "find bookmarks from Bangalore",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "sync emails from Mumbai today",
+    "target": {
+      "act": "sync",
+      "add": "Mumbai",
+      "record": "emails",
+      "time": "today"
+    }
+  },
+  {
+    "input": "look up bookmarks near Dubai",
+    "target": {
+      "act": "search",
+      "add": "Dubai",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "export all emails in Rome since this week",
+    "target": {
+      "act": "export",
+      "add": "Rome",
+      "record": "emails",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "get reminders in New York from today",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "reminders",
+      "time": "today"
+    }
+  },
+  {
+    "input": "I want to export messages from Singapore",
+    "target": {
+      "act": "export",
+      "add": "Singapore",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "retrieve documents from Bangalore since this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "documents",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "remove emails from Bangkok",
+    "target": {
+      "act": "delete",
+      "add": "Bangkok",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "find emails from Cairo from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "emails",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "get messages from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "pull notes from New York",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "I want to sync photos from Seoul",
+    "target": {
+      "act": "sync",
+      "add": "Seoul",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "retrieve messages from Shanghai",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "upload emails from London",
+    "target": {
+      "act": "upload",
+      "add": "London",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "remove files from Bangkok",
+    "target": {
+      "act": "delete",
+      "add": "Bangkok",
+      "record": "files"
+    }
+  },
+  {
+    "input": "get videos in Moscow from this week",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "videos",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "remove messages from London from today",
+    "target": {
+      "act": "delete",
+      "add": "London",
+      "record": "messages",
+      "time": "today"
+    }
+  },
+  {
+    "input": "get files in Singapore from two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "files",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "find bookmarks from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "archive bookmarks from Rome",
+    "target": {
+      "act": "archive",
+      "add": "Rome",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "retrieve notes from Dubai since yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "notes",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "get videos from Mumbai",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "fetch photos from Dubai last year",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "photos",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "export all messages in Delhi since last month",
+    "target": {
+      "act": "export",
+      "add": "Delhi",
+      "record": "messages",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "delete contacts taken in Paris",
+    "target": {
+      "act": "delete",
+      "add": "Paris",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "retrieve reminders from Shanghai",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "search all contacts in Bangkok since this week",
+    "target": {
+      "act": "search",
+      "add": "Bangkok",
+      "record": "contacts",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "erase emails from Bangalore",
+    "target": {
+      "act": "delete",
+      "add": "Bangalore",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "download contacts from Cairo this week",
+    "target": {
+      "act": "download",
+      "add": "Cairo",
+      "record": "contacts",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "look up messages near Dubai",
+    "target": {
+      "act": "search",
+      "add": "Dubai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "show me notes from Dubai, this week",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "notes",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "find reminders from Shanghai from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "reminders",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "remove photos from Dubai",
+    "target": {
+      "act": "delete",
+      "add": "Dubai",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "pull photos from Singapore",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "look up reminders near Tokyo",
+    "target": {
+      "act": "search",
+      "add": "Tokyo",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "pull notes from Dubai",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "pull notes from Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "retrieve videos from London since last week",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "videos",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pull photos from Moscow",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "erase videos from London",
+    "target": {
+      "act": "delete",
+      "add": "London",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "export all contacts in Seoul since today",
+    "target": {
+      "act": "export",
+      "add": "Seoul",
+      "record": "contacts",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show me bookmarks from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "erase documents from Paris",
+    "target": {
+      "act": "delete",
+      "add": "Paris",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "look up documents near Rome",
+    "target": {
+      "act": "search",
+      "add": "Rome",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "upload all emails in Mumbai",
+    "target": {
+      "act": "upload",
+      "add": "Mumbai",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "remove messages from Sydney",
+    "target": {
+      "act": "delete",
+      "add": "Sydney",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "locate videos in Delhi",
+    "target": {
+      "act": "search",
+      "add": "Delhi",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "sync all bookmarks in Singapore",
+    "target": {
+      "act": "sync",
+      "add": "Singapore",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "find reminders from Singapore",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "retrieve videos from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "get reminders in Bangalore from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "reminders",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "retrieve videos from Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "upload all messages in Dubai",
+    "target": {
+      "act": "upload",
+      "add": "Dubai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "show me documents from Tokyo, yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "documents",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me contacts from Cairo, this week",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "contacts",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "pull messages from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "retrieve messages from London",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "show me reminders from Rome, this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "reminders",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "show me notes from Delhi, this week",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "notes",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "find photos from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "archive emails from Mumbai last month",
+    "target": {
+      "act": "archive",
+      "add": "Mumbai",
+      "record": "emails",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "upload my files from Tokyo",
+    "target": {
+      "act": "upload",
+      "add": "Tokyo",
+      "record": "files"
+    }
+  },
+  {
+    "input": "remove videos from New York",
+    "target": {
+      "act": "delete",
+      "add": "New York",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "share my reminders from New York",
+    "target": {
+      "act": "share",
+      "add": "New York",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "search reminders from London",
+    "target": {
+      "act": "search",
+      "add": "London",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "show me contacts from London",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "retrieve videos from Paris since last week",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "videos",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get notes in Delhi from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "notes",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "export all photos in Singapore since two days ago",
+    "target": {
+      "act": "export",
+      "add": "Singapore",
+      "record": "photos",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "show me emails from Berlin, last year",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "emails",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "show me emails from Mumbai",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "retrieve photos from Jakarta since this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "photos",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "get photos from Bangalore",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "get videos from Seoul",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "erase videos from Moscow",
+    "target": {
+      "act": "delete",
+      "add": "Moscow",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "search contacts from Jakarta today",
+    "target": {
+      "act": "search",
+      "add": "Jakarta",
+      "record": "contacts",
+      "time": "today"
+    }
+  },
+  {
+    "input": "look up bookmarks near Bangkok",
+    "target": {
+      "act": "search",
+      "add": "Bangkok",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "please sync bookmarks from Jakarta",
+    "target": {
+      "act": "sync",
+      "add": "Jakarta",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "locate videos in Seoul",
+    "target": {
+      "act": "search",
+      "add": "Seoul",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "find notes from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "I want to sync messages from Sydney",
+    "target": {
+      "act": "sync",
+      "add": "Sydney",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "find files from Mumbai",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "files"
+    }
+  },
+  {
+    "input": "sync files taken in Singapore",
+    "target": {
+      "act": "sync",
+      "add": "Singapore",
+      "record": "files"
+    }
+  },
+  {
+    "input": "show me videos from Berlin, yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "videos",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me contacts from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "find bookmarks from Cairo from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "bookmarks",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "please archive photos from Seoul",
+    "target": {
+      "act": "archive",
+      "add": "Seoul",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "show me reminders from Mumbai",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "remove notes from Rome from yesterday",
+    "target": {
+      "act": "delete",
+      "add": "Rome",
+      "record": "notes",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "search all files in Cairo",
+    "target": {
+      "act": "search",
+      "add": "Cairo",
+      "record": "files"
+    }
+  },
+  {
+    "input": "locate bookmarks in Seoul",
+    "target": {
+      "act": "search",
+      "add": "Seoul",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "archive bookmarks from Jakarta",
+    "target": {
+      "act": "archive",
+      "add": "Jakarta",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "search photos taken in Singapore",
+    "target": {
+      "act": "search",
+      "add": "Singapore",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "I want to fetch files from Dubai",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "files"
+    }
+  },
+  {
+    "input": "retrieve reminders from London since two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "reminders",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "retrieve videos from Bangalore since last month",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "videos",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download files taken in Moscow",
+    "target": {
+      "act": "download",
+      "add": "Moscow",
+      "record": "files"
+    }
+  },
+  {
+    "input": "pull reminders from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "delete all contacts in Tokyo since last week",
+    "target": {
+      "act": "delete",
+      "add": "Tokyo",
+      "record": "contacts",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get emails in Seoul from this week",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "emails",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "download all bookmarks in New York",
+    "target": {
+      "act": "download",
+      "add": "New York",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "get reminders from Dubai",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "backup my photos from Dubai",
+    "target": {
+      "act": "backup",
+      "add": "Dubai",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "search my photos from Tokyo",
+    "target": {
+      "act": "search",
+      "add": "Tokyo",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "please download documents from London",
+    "target": {
+      "act": "download",
+      "add": "London",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "backup all messages in Rome since today",
+    "target": {
+      "act": "backup",
+      "add": "Rome",
+      "record": "messages",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show me bookmarks from Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "find videos from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "sync messages from Tokyo",
+    "target": {
+      "act": "sync",
+      "add": "Tokyo",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "find reminders from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "backup all documents in Seoul",
+    "target": {
+      "act": "backup",
+      "add": "Seoul",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "remove contacts from Chennai from this week",
+    "target": {
+      "act": "delete",
+      "add": "Chennai",
+      "record": "contacts",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "pull messages from Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "remove messages from Berlin",
+    "target": {
+      "act": "delete",
+      "add": "Berlin",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "I want to upload notes from Chennai",
+    "target": {
+      "act": "upload",
+      "add": "Chennai",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "get bookmarks in Mumbai from last month",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "bookmarks",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "look up files near Delhi",
+    "target": {
+      "act": "search",
+      "add": "Delhi",
+      "record": "files"
+    }
+  },
+  {
+    "input": "upload all notes in London",
+    "target": {
+      "act": "upload",
+      "add": "London",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "upload all reminders in Paris since yesterday",
+    "target": {
+      "act": "upload",
+      "add": "Paris",
+      "record": "reminders",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "retrieve emails from Bangkok",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "I want to download reminders from Bangkok",
+    "target": {
+      "act": "download",
+      "add": "Bangkok",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "show me emails from Berlin, this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "emails",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "I want to export photos from Bangkok",
+    "target": {
+      "act": "export",
+      "add": "Bangkok",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "download emails from Moscow last week",
+    "target": {
+      "act": "download",
+      "add": "Moscow",
+      "record": "emails",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pull videos from Berlin",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "pull emails from Shanghai",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "erase emails from Tokyo",
+    "target": {
+      "act": "delete",
+      "add": "Tokyo",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "pull files from New York",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "files"
+    }
+  },
+  {
+    "input": "get photos from London",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "get videos in Chennai from today",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "videos",
+      "time": "today"
+    }
+  },
+  {
+    "input": "get emails in Moscow from today",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "emails",
+      "time": "today"
+    }
+  },
+  {
+    "input": "find messages from Dubai",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "locate photos in Jakarta",
+    "target": {
+      "act": "search",
+      "add": "Jakarta",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "I want to delete videos from Chennai",
+    "target": {
+      "act": "delete",
+      "add": "Chennai",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "please archive documents from Shanghai",
+    "target": {
+      "act": "archive",
+      "add": "Shanghai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "pull videos from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "retrieve documents from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "show me documents from Berlin",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "retrieve contacts from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "retrieve videos from Madrid",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "download files from Madrid",
+    "target": {
+      "act": "download",
+      "add": "Madrid",
+      "record": "files"
+    }
+  },
+  {
+    "input": "locate files in New York",
+    "target": {
+      "act": "search",
+      "add": "New York",
+      "record": "files"
+    }
+  },
+  {
+    "input": "delete contacts taken in Sydney",
+    "target": {
+      "act": "delete",
+      "add": "Sydney",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "remove bookmarks from Mumbai from last week",
+    "target": {
+      "act": "delete",
+      "add": "Mumbai",
+      "record": "bookmarks",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pull contacts from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "remove contacts from Paris",
+    "target": {
+      "act": "delete",
+      "add": "Paris",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "look up contacts near Jakarta",
+    "target": {
+      "act": "search",
+      "add": "Jakarta",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "please sync reminders from Moscow",
+    "target": {
+      "act": "sync",
+      "add": "Moscow",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "remove documents from Sydney from this week",
+    "target": {
+      "act": "delete",
+      "add": "Sydney",
+      "record": "documents",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "retrieve files from New York",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "files"
+    }
+  },
+  {
+    "input": "locate emails in Moscow",
+    "target": {
+      "act": "search",
+      "add": "Moscow",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "get bookmarks in Shanghai from two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "bookmarks",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "search reminders taken in New York",
+    "target": {
+      "act": "search",
+      "add": "New York",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "get files in Rome from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "files",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "please delete videos from Madrid",
+    "target": {
+      "act": "delete",
+      "add": "Madrid",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "erase emails from Singapore",
+    "target": {
+      "act": "delete",
+      "add": "Singapore",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "erase videos from Seoul",
+    "target": {
+      "act": "delete",
+      "add": "Seoul",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "fetch files from Moscow two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "files",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "find notes from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "download notes from Delhi",
+    "target": {
+      "act": "download",
+      "add": "Delhi",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "fetch contacts taken in Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "remove contacts from Rome from this week",
+    "target": {
+      "act": "delete",
+      "add": "Rome",
+      "record": "contacts",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "search videos from Bangalore",
+    "target": {
+      "act": "search",
+      "add": "Bangalore",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "retrieve bookmarks from London since two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "bookmarks",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "find notes from Dubai from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "notes",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me reminders from Seoul, yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "reminders",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "get reminders in Rome from last week",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "reminders",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get photos in Seoul from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "photos",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "retrieve contacts from Seoul since yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "contacts",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "backup bookmarks from Madrid",
+    "target": {
+      "act": "backup",
+      "add": "Madrid",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "I want to search messages from Tokyo",
+    "target": {
+      "act": "search",
+      "add": "Tokyo",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "I want to share videos from Delhi",
+    "target": {
+      "act": "share",
+      "add": "Delhi",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "look up reminders near Mumbai",
+    "target": {
+      "act": "search",
+      "add": "Mumbai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "I want to export photos from London",
+    "target": {
+      "act": "export",
+      "add": "London",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "look up emails near Paris",
+    "target": {
+      "act": "search",
+      "add": "Paris",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "sync all contacts in Paris",
+    "target": {
+      "act": "sync",
+      "add": "Paris",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "remove photos from New York from last month",
+    "target": {
+      "act": "delete",
+      "add": "New York",
+      "record": "photos",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show me documents from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "please fetch emails from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "I want to fetch documents from New York",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "download all documents in Chennai",
+    "target": {
+      "act": "download",
+      "add": "Chennai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "erase emails from Shanghai",
+    "target": {
+      "act": "delete",
+      "add": "Shanghai",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "get contacts from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "please delete bookmarks from Delhi",
+    "target": {
+      "act": "delete",
+      "add": "Delhi",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "pull messages from Berlin",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "please download bookmarks from Paris",
+    "target": {
+      "act": "download",
+      "add": "Paris",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "find documents from Chennai from this week",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "documents",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "look up contacts near Seoul",
+    "target": {
+      "act": "search",
+      "add": "Seoul",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "look up photos near Moscow",
+    "target": {
+      "act": "search",
+      "add": "Moscow",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "find reminders from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "retrieve videos from Tokyo since two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "videos",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "archive photos taken in Paris",
+    "target": {
+      "act": "archive",
+      "add": "Paris",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "delete photos taken in Moscow",
+    "target": {
+      "act": "delete",
+      "add": "Moscow",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "show me files from Delhi, last week",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "files",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "I want to sync files from Moscow",
+    "target": {
+      "act": "sync",
+      "add": "Moscow",
+      "record": "files"
+    }
+  },
+  {
+    "input": "show me contacts from Bangkok",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "delete my documents from Chennai",
+    "target": {
+      "act": "delete",
+      "add": "Chennai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "get emails in Paris from two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "emails",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "locate documents in Mumbai",
+    "target": {
+      "act": "search",
+      "add": "Mumbai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "get notes in Moscow from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "notes",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "upload all notes in Rome",
+    "target": {
+      "act": "upload",
+      "add": "Rome",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "erase contacts from Moscow",
+    "target": {
+      "act": "delete",
+      "add": "Moscow",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "retrieve files from Berlin",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "files"
+    }
+  },
+  {
+    "input": "show me bookmarks from Berlin",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "retrieve contacts from Dubai since today",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "contacts",
+      "time": "today"
+    }
+  },
+  {
+    "input": "share all notes in Madrid",
+    "target": {
+      "act": "share",
+      "add": "Madrid",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "download emails from Sydney",
+    "target": {
+      "act": "download",
+      "add": "Sydney",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "locate emails in Delhi",
+    "target": {
+      "act": "search",
+      "add": "Delhi",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "erase reminders from London",
+    "target": {
+      "act": "delete",
+      "add": "London",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "retrieve messages from Dubai since this week",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "messages",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "upload all reminders in Seoul",
+    "target": {
+      "act": "upload",
+      "add": "Seoul",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "get emails from Berlin",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "erase contacts from Delhi",
+    "target": {
+      "act": "delete",
+      "add": "Delhi",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "upload reminders taken in Cairo",
+    "target": {
+      "act": "upload",
+      "add": "Cairo",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "show me videos from Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "find contacts from Paris from last month",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "contacts",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "remove documents from Madrid",
+    "target": {
+      "act": "delete",
+      "add": "Madrid",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "find bookmarks from New York from today",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "bookmarks",
+      "time": "today"
+    }
+  },
+  {
+    "input": "export all bookmarks in Jakarta",
+    "target": {
+      "act": "export",
+      "add": "Jakarta",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "upload reminders taken in Bangkok",
+    "target": {
+      "act": "upload",
+      "add": "Bangkok",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "remove files from Jakarta",
+    "target": {
+      "act": "delete",
+      "add": "Jakarta",
+      "record": "files"
+    }
+  },
+  {
+    "input": "fetch all photos in Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "retrieve documents from Bangkok",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "get messages in Bangkok from last week",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "messages",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "retrieve documents from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "locate notes in Rome",
+    "target": {
+      "act": "search",
+      "add": "Rome",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "get documents from Shanghai",
+    "target": {
+      "act": "fetch",
+      "add": "Shanghai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "show me contacts from Tokyo, two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "contacts",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "show me files from Chennai, today",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "files",
+      "time": "today"
+    }
+  },
+  {
+    "input": "download all bookmarks in Madrid",
+    "target": {
+      "act": "download",
+      "add": "Madrid",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "show me documents from Mumbai, last month",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "documents",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show me documents from Tokyo, two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "documents",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "get files in Paris from last year",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "files",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "delete emails from Dubai",
+    "target": {
+      "act": "delete",
+      "add": "Dubai",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "share my emails from Madrid",
+    "target": {
+      "act": "share",
+      "add": "Madrid",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "please sync photos from Tokyo",
+    "target": {
+      "act": "sync",
+      "add": "Tokyo",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "show me documents from Rome",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "download all messages in Mumbai since this morning",
+    "target": {
+      "act": "download",
+      "add": "Mumbai",
+      "record": "messages",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "find notes from Cairo from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "notes",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "remove emails from Madrid from this morning",
+    "target": {
+      "act": "delete",
+      "add": "Madrid",
+      "record": "emails",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "upload all reminders in Jakarta",
+    "target": {
+      "act": "upload",
+      "add": "Jakarta",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "locate files in Shanghai",
+    "target": {
+      "act": "search",
+      "add": "Shanghai",
+      "record": "files"
+    }
+  },
+  {
+    "input": "locate files in Cairo",
+    "target": {
+      "act": "search",
+      "add": "Cairo",
+      "record": "files"
+    }
+  },
+  {
+    "input": "show me bookmarks from Jakarta, last week",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "bookmarks",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "remove files from London from this week",
+    "target": {
+      "act": "delete",
+      "add": "London",
+      "record": "files",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "I want to upload reminders from Chennai",
+    "target": {
+      "act": "upload",
+      "add": "Chennai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "pull documents from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "get bookmarks from Madrid",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "remove emails from Dubai",
+    "target": {
+      "act": "delete",
+      "add": "Dubai",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "show me videos from Chennai, this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "videos",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "get reminders from Bangalore",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "archive all reminders in Bangkok since last week",
+    "target": {
+      "act": "archive",
+      "add": "Bangkok",
+      "record": "reminders",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "locate reminders in Madrid",
+    "target": {
+      "act": "search",
+      "add": "Madrid",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "archive notes from London",
+    "target": {
+      "act": "archive",
+      "add": "London",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "sync notes from Mumbai",
+    "target": {
+      "act": "sync",
+      "add": "Mumbai",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "look up messages near London",
+    "target": {
+      "act": "search",
+      "add": "London",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "show me reminders from Madrid, last week",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "reminders",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me notes from Madrid",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "find bookmarks from Rome",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "erase emails from Paris",
+    "target": {
+      "act": "delete",
+      "add": "Paris",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "retrieve files from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "files"
+    }
+  },
+  {
+    "input": "get reminders from Singapore",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "get documents in Sydney from this morning",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "documents",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "retrieve documents from Dubai since last month",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "documents",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get files from Rome",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "files"
+    }
+  },
+  {
+    "input": "archive all documents in Singapore",
+    "target": {
+      "act": "archive",
+      "add": "Singapore",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "remove messages from Shanghai",
+    "target": {
+      "act": "delete",
+      "add": "Shanghai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "search documents from London",
+    "target": {
+      "act": "search",
+      "add": "London",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "erase files from Berlin",
+    "target": {
+      "act": "delete",
+      "add": "Berlin",
+      "record": "files"
+    }
+  },
+  {
+    "input": "share my emails from Singapore",
+    "target": {
+      "act": "share",
+      "add": "Singapore",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "look up bookmarks near Singapore",
+    "target": {
+      "act": "search",
+      "add": "Singapore",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "retrieve reminders from Mumbai since last month",
+    "target": {
+      "act": "fetch",
+      "add": "Mumbai",
+      "record": "reminders",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "retrieve notes from Madrid since last month",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "notes",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "retrieve files from Seoul since this week",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "files",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "get photos in London from today",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "photos",
+      "time": "today"
+    }
+  },
+  {
+    "input": "retrieve emails from Rome",
+    "target": {
+      "act": "fetch",
+      "add": "Rome",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "find files from Dubai from last week",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "files",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "export my reminders from Berlin",
+    "target": {
+      "act": "export",
+      "add": "Berlin",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "find contacts from Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "remove photos from Paris",
+    "target": {
+      "act": "delete",
+      "add": "Paris",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "erase contacts from Rome",
+    "target": {
+      "act": "delete",
+      "add": "Rome",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "search photos from Dubai",
+    "target": {
+      "act": "search",
+      "add": "Dubai",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "please sync files from Mumbai",
+    "target": {
+      "act": "sync",
+      "add": "Mumbai",
+      "record": "files"
+    }
+  },
+  {
+    "input": "get bookmarks from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "get bookmarks from London",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "search all files in Mumbai since this week",
+    "target": {
+      "act": "search",
+      "add": "Mumbai",
+      "record": "files",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "locate files in Bangalore",
+    "target": {
+      "act": "search",
+      "add": "Bangalore",
+      "record": "files"
+    }
+  },
+  {
+    "input": "get contacts in New York from two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "contacts",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "backup all files in Madrid",
+    "target": {
+      "act": "backup",
+      "add": "Madrid",
+      "record": "files"
+    }
+  },
+  {
+    "input": "get contacts from Paris",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "please backup photos from Sydney",
+    "target": {
+      "act": "backup",
+      "add": "Sydney",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "find files from Singapore from last week",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "files",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "sync notes from Delhi yesterday",
+    "target": {
+      "act": "sync",
+      "add": "Delhi",
+      "record": "notes",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "erase bookmarks from Shanghai",
+    "target": {
+      "act": "delete",
+      "add": "Shanghai",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "retrieve videos from Dubai",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "pull files from Dubai",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "files"
+    }
+  },
+  {
+    "input": "archive all emails in London since this week",
+    "target": {
+      "act": "archive",
+      "add": "London",
+      "record": "emails",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "locate emails in Cairo",
+    "target": {
+      "act": "search",
+      "add": "Cairo",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "retrieve notes from New York",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "get bookmarks from Berlin",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "erase videos from Delhi",
+    "target": {
+      "act": "delete",
+      "add": "Delhi",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "erase bookmarks from Tokyo",
+    "target": {
+      "act": "delete",
+      "add": "Tokyo",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "upload bookmarks taken in Bangkok",
+    "target": {
+      "act": "upload",
+      "add": "Bangkok",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "share all emails in Madrid",
+    "target": {
+      "act": "share",
+      "add": "Madrid",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "erase videos from Rome",
+    "target": {
+      "act": "delete",
+      "add": "Rome",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "export emails taken in Tokyo",
+    "target": {
+      "act": "export",
+      "add": "Tokyo",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "show me photos from Bangkok",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "find photos from Dubai",
+    "target": {
+      "act": "fetch",
+      "add": "Dubai",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "get notes in Bangalore from yesterday",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "notes",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "get videos in Delhi from last week",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "videos",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "search emails from Berlin",
+    "target": {
+      "act": "search",
+      "add": "Berlin",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "I want to backup messages from London",
+    "target": {
+      "act": "backup",
+      "add": "London",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "export all messages in Shanghai",
+    "target": {
+      "act": "export",
+      "add": "Shanghai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "export all videos in Delhi since two days ago",
+    "target": {
+      "act": "export",
+      "add": "Delhi",
+      "record": "videos",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "remove photos from Sydney from last week",
+    "target": {
+      "act": "delete",
+      "add": "Sydney",
+      "record": "photos",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "find bookmarks from Moscow",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "get notes from Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "erase notes from Singapore",
+    "target": {
+      "act": "delete",
+      "add": "Singapore",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "locate photos in Mumbai",
+    "target": {
+      "act": "search",
+      "add": "Mumbai",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "share my photos from Jakarta",
+    "target": {
+      "act": "share",
+      "add": "Jakarta",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "show me photos from Jakarta, last week",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "photos",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me messages from Tokyo, last month",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "messages",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show me contacts from Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "I want to archive reminders from Sydney",
+    "target": {
+      "act": "archive",
+      "add": "Sydney",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "please upload notes from Chennai",
+    "target": {
+      "act": "upload",
+      "add": "Chennai",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "find notes from Madrid",
+    "target": {
+      "act": "fetch",
+      "add": "Madrid",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "pull bookmarks from Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "show me messages from Paris",
+    "target": {
+      "act": "fetch",
+      "add": "Paris",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "locate messages in Delhi",
+    "target": {
+      "act": "search",
+      "add": "Delhi",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "search messages taken in Seoul",
+    "target": {
+      "act": "search",
+      "add": "Seoul",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "share my emails from Cairo",
+    "target": {
+      "act": "share",
+      "add": "Cairo",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "erase emails from London",
+    "target": {
+      "act": "delete",
+      "add": "London",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "get messages in Seoul from today",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "messages",
+      "time": "today"
+    }
+  },
+  {
+    "input": "I want to delete notes from Singapore",
+    "target": {
+      "act": "delete",
+      "add": "Singapore",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "please backup photos from New York",
+    "target": {
+      "act": "backup",
+      "add": "New York",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "remove photos from Jakarta",
+    "target": {
+      "act": "delete",
+      "add": "Jakarta",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "share all bookmarks in Bangkok since this week",
+    "target": {
+      "act": "share",
+      "add": "Bangkok",
+      "record": "bookmarks",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "retrieve videos from New York since this week",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "videos",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "find notes from Jakarta",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "retrieve bookmarks from Moscow since last year",
+    "target": {
+      "act": "fetch",
+      "add": "Moscow",
+      "record": "bookmarks",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "locate emails in Mumbai",
+    "target": {
+      "act": "search",
+      "add": "Mumbai",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "I want to backup files from New York",
+    "target": {
+      "act": "backup",
+      "add": "New York",
+      "record": "files"
+    }
+  },
+  {
+    "input": "export contacts from Sydney this morning",
+    "target": {
+      "act": "export",
+      "add": "Sydney",
+      "record": "contacts",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "please upload messages from Bangkok",
+    "target": {
+      "act": "upload",
+      "add": "Bangkok",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "get messages in Sydney from last month",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "messages",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "locate documents in Chennai",
+    "target": {
+      "act": "search",
+      "add": "Chennai",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "download emails taken in Rome",
+    "target": {
+      "act": "download",
+      "add": "Rome",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "export all emails in Cairo since last week",
+    "target": {
+      "act": "export",
+      "add": "Cairo",
+      "record": "emails",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me bookmarks from New York, last year",
+    "target": {
+      "act": "fetch",
+      "add": "New York",
+      "record": "bookmarks",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "retrieve emails from Jakarta since this week",
+    "target": {
+      "act": "fetch",
+      "add": "Jakarta",
+      "record": "emails",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "show me bookmarks from Cairo, last week",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "bookmarks",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "find bookmarks from Singapore from last week",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "bookmarks",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "delete all contacts in Seoul",
+    "target": {
+      "act": "delete",
+      "add": "Seoul",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "locate documents in Delhi",
+    "target": {
+      "act": "search",
+      "add": "Delhi",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "get messages from Delhi",
+    "target": {
+      "act": "fetch",
+      "add": "Delhi",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "retrieve documents from Sydney",
+    "target": {
+      "act": "fetch",
+      "add": "Sydney",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "backup all photos in Berlin",
+    "target": {
+      "act": "backup",
+      "add": "Berlin",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "fetch emails from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "remove emails from Berlin",
+    "target": {
+      "act": "delete",
+      "add": "Berlin",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "remove reminders from Chennai",
+    "target": {
+      "act": "delete",
+      "add": "Chennai",
+      "record": "reminders"
+    }
+  },
+  {
+    "input": "share my photos from Madrid",
+    "target": {
+      "act": "share",
+      "add": "Madrid",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "please fetch emails from Bangkok",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "pull bookmarks from Singapore",
+    "target": {
+      "act": "fetch",
+      "add": "Singapore",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "share files from Paris",
+    "target": {
+      "act": "share",
+      "add": "Paris",
+      "record": "files"
+    }
+  },
+  {
+    "input": "please upload videos from Shanghai",
+    "target": {
+      "act": "upload",
+      "add": "Shanghai",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "retrieve messages from Bangkok",
+    "target": {
+      "act": "fetch",
+      "add": "Bangkok",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "locate messages in Chennai",
+    "target": {
+      "act": "search",
+      "add": "Chennai",
+      "record": "messages"
+    }
+  },
+  {
+    "input": "look up bookmarks near Berlin",
+    "target": {
+      "act": "search",
+      "add": "Berlin",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "find videos from Tokyo",
+    "target": {
+      "act": "fetch",
+      "add": "Tokyo",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "get files in Berlin from two days ago",
+    "target": {
+      "act": "fetch",
+      "add": "Berlin",
+      "record": "files",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "retrieve photos from Chennai",
+    "target": {
+      "act": "fetch",
+      "add": "Chennai",
+      "record": "photos"
+    }
+  },
+  {
+    "input": "export all emails in Moscow since last year",
+    "target": {
+      "act": "export",
+      "add": "Moscow",
+      "record": "emails",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "retrieve contacts from Seoul",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "locate videos in Shanghai",
+    "target": {
+      "act": "search",
+      "add": "Shanghai",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "search all videos in Sydney",
+    "target": {
+      "act": "search",
+      "add": "Sydney",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "find messages from London from last year",
+    "target": {
+      "act": "fetch",
+      "add": "London",
+      "record": "messages",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "show me documents from Bangalore, last year",
+    "target": {
+      "act": "fetch",
+      "add": "Bangalore",
+      "record": "documents",
+      "time": "last year"
+    }
+  },
+  {
+    "input": "upload all contacts in Mumbai",
+    "target": {
+      "act": "upload",
+      "add": "Mumbai",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "show me bookmarks from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "bookmarks"
+    }
+  },
+  {
+    "input": "I want to export videos from Bangalore",
+    "target": {
+      "act": "export",
+      "add": "Bangalore",
+      "record": "videos"
+    }
+  },
+  {
+    "input": "remove files from Jakarta from two days ago",
+    "target": {
+      "act": "delete",
+      "add": "Jakarta",
+      "record": "files",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "remove messages from Seoul from yesterday",
+    "target": {
+      "act": "delete",
+      "add": "Seoul",
+      "record": "messages",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "pull notes from Cairo",
+    "target": {
+      "act": "fetch",
+      "add": "Cairo",
+      "record": "notes"
+    }
+  },
+  {
+    "input": "search contacts taken in Shanghai",
+    "target": {
+      "act": "search",
+      "add": "Shanghai",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "upload all contacts in Rome",
+    "target": {
+      "act": "upload",
+      "add": "Rome",
+      "record": "contacts"
+    }
+  },
+  {
+    "input": "get documents from Seoul",
+    "target": {
+      "act": "fetch",
+      "add": "Seoul",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "sync my documents from Delhi",
+    "target": {
+      "act": "sync",
+      "add": "Delhi",
+      "record": "documents"
+    }
+  },
+  {
+    "input": "upload all emails in New York",
+    "target": {
+      "act": "upload",
+      "add": "New York",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "remove files from Shanghai",
+    "target": {
+      "act": "delete",
+      "add": "Shanghai",
+      "record": "files"
+    }
+  },
+  {
+    "input": "I want to backup emails from Chennai",
+    "target": {
+      "act": "backup",
+      "add": "Chennai",
+      "record": "emails"
+    }
+  },
+  {
+    "input": "please download contacts from Jakarta",
+    "target": {
+      "act": "download",
+      "add": "Jakarta",
+      "record": "contacts"
+    }
+  }
+]
